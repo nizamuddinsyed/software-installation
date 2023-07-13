@@ -112,4 +112,4 @@ Edit the MongoDB configuration file located at
     db.testcollection.find()
 
 
-mongodb://nizam:1.Keeper.2!@192.168.1.73:27017/daquai_db?ssl=true
+mongodb://nizam:1.*****.2!@192.168.1.73:27017/daquai_db?ssl=true
